@@ -1,5 +1,7 @@
 # hw1_binary_hex_converter
- 
+
+Repository link: https://github.com/hongren2003/hw1_binary_hex_converter 
+
 Hong-Ren, Huang (B507110048)
 
 School of Public Health, Taipei Medical University
